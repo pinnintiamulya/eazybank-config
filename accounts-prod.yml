@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs "
+  message: "Welcome to EazyBank accounts related production APIs -- Information from gitHub --Amulya "
   contactDetails:
     name: "Aarav Dugyala - Product Owner"
     email: "Aarav@eazybank.com"
