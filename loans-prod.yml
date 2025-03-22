@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "Aarav Dugyala - Product Owner"
+    email: "Aarav@eazybank.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
