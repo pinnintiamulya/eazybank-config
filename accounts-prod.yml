@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related webhook test APIs - Amulya"
+  message: "Welcome to EazyBank accounts related webhook APIs - Rao"
   contactDetails:
     name: "Aarav Dugyala - Product Owner"
     email: "Aarav@eazybank.com"
