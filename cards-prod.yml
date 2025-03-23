@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards webhook related prod APIs -Amulya "
+  message: "Welcome to EazyBank cards related webhook APIs "
   contactDetails:
     name: "Aarav Dugyala - Product Owner"
     email: "Aarav@eazybank.com"
