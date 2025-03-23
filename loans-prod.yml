@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans webhook related prod APIs - Amulya Loans"
+  message: "Welcome to EazyBank loans webhook related webhook APIs"
   contactDetails:
     name: "Aarav Dugyala - Product Owner"
     email: "Aarav@eazybank.com"
